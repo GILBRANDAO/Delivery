@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido no RAD Studio 10 Seattle Version 23.0.20618.2753 com banco de dados Firebird versão 2.5
+Este projeto foi desenvolvido com Orientação a Objetos (POO) e o princípio SOLID no RAD Studio 10 Seattle Version 23.0.20618.2753 com banco de dados Firebird versão 2.5
 
 DESENVOLVEDOR:
 NOME: GILVANDRO JOSE BRANDAO ALVES
