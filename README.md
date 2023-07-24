@@ -2,9 +2,7 @@ Este projeto foi desenvolvido com Orientação a Objetos (POO) e o princípio SO
 
 DESENVOLVEDOR:
 NOME: GILVANDRO JOSE BRANDAO ALVES
-CONTATO: WhatsApp: 81 99750-1974 - Celular: 81 9919-7359
-ENDEREÇO: Rua Sertão,127 - Barra de Jangada - Jaboatão dos Guararapes - PE
-E-MAIL: gilbrandaoalves@gmail.com
+
 
 importante: O caminho do banco deve ser "Delirery - Teste Pharmapele\BD" ou seja a pasta deve ficar na Unidade C:\
 
