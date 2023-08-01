@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido com Orientação a Objetos (POO) e o princípio SOLID no RAD Studio 10 Seattle Version 23.0.20618.2753 com banco de dados Firebird versão 2.5
+Este projeto foi desenvolvido com Orientação a Objetos (POO) e princípioS SOLID no RAD Studio 10 Seattle Version 23.0.20618.2753 com banco de dados Firebird versão 2.5
 
 DESENVOLVEDOR:
 NOME: GILVANDRO JOSE BRANDAO ALVES
@@ -10,6 +10,10 @@ importante: O caminho do banco deve ser "Delirery - Teste Pharmapele\BD" ou seja
 INSTRUÇÕES DE USO DO SISTEMA
 ############################
 
+******************
+*TELA DE LOGIN*
+******************
+Certifique-se de que o Username é "admin" e preencha o campo "password" com "123" 
 
 ******************
 *TELA DE PRODUTO*
